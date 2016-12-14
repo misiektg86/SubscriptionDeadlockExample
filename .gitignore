@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProjectionDeadlockExample/obj/Debug
+/ProjectionDeadlockExample/bin/Debug
+/packages
+/.vs/ProjectionDeadlockExample/v14
