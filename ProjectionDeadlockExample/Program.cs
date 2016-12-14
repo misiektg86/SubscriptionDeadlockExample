@@ -48,7 +48,7 @@ namespace ProjectionDeadlockExample
                  new CatchUpSubscriptionSettings(1000, 100, true, true),
                  EventAppeared, null, null, new UserCredentials("admin", "changeit"));
 
-            Console.WriteLine("Starting started");
+            Console.WriteLine("Subscription started");
 
             Console.WriteLine("Binding to connected handler");
 
